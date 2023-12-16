@@ -1,4 +1,4 @@
-'# Face-Verification
+# Face-Verification
 Face Verification
 
 - A Python face verification project where a person can detect whether a system detects his/her face.
